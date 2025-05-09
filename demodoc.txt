@@ -1,3 +1,5 @@
 
 hiii
+checking git conflict remote
+this is remote commit
 trying out cobined commands
