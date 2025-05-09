@@ -1,3 +1,5 @@
 
 hiii
+checking git conflict local
+this is local commit
 trying out cobined commands
