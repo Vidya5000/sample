@@ -1,5 +1,10 @@
 
 hiii
+<<<<<<< HEAD
 checking git conflict local
 this is local commit
+=======
+checking git conflict remote
+this is remote commit
+>>>>>>> 00cc74fc74c77d624a1493f3ab44ff4d8219f17a
 trying out cobined commands
